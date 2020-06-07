@@ -22,7 +22,14 @@ Implementaion Of Data Structures And Algorithms In Python
 - [String Algorithms](#String-Algorithms)
 - [Trees](#Trees)
 
+---------------------------------------------------------
+
 ### [Array Important Algos And Ques](https://github.com/agaraman0/Data_Structure_And_Algorithms/tree/master/Array%20Important%20Algos%20And%20Ques)
+
+| 			Topic/Question			       |
+|------------------------------------------|
+|[Check_Array_Rotation](/blob/master/Array%20Important%20Algos%20And%20Ques/Check_Array_Rotation.ipynb)|
+|[Common_elements_in_2_soretd_Array](https://github.com/agaraman0/Data_Structure_And_Algorithms/blob/master/Array%20Important%20Algos%20And%20Ques/Common_elements_in_2_soretd_Array.ipynb)|
 
 ### [Bitwise Algorithms](https://github.com/agaraman0/Data_Structure_And_Algorithms/tree/master/Bitwise%20Algorthms)
 
