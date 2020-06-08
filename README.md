@@ -48,7 +48,7 @@ Implementaion Of Data Structures And Algorithms In Python
 | 			Topic/Question			       |
 |------------------------------------------|
 
-### Dynamic-Programming
+### Dynamic-Programming(/Dynamic%20Programming)
 | 			Topic/Question			       |
 |------------------------------------------|
 | [Fibonacci Sequence DP](/Dynamic%20Programming/Finonacci%20Memo.ipynb) |
@@ -84,6 +84,6 @@ Implementaion Of Data Structures And Algorithms In Python
 | 			Topic/Question			       |
 |------------------------------------------|
 | [Tree Implementation Oops](/Trees/Tree_Implementation_OOPS.ipynb) |
-| [[Tree Implementation using Lists](/Trees/Tree_Implementation_using_Lists.ipynb)] |
+| [Tree Implementation using Lists](/Trees/Tree_Implementation_using_Lists.ipynb) |
 | [Maximum Depth of tree](/Trees/maxDepth) |
 | [Merge Two trees](/Trees/mergeTrees.py) |
