@@ -48,7 +48,7 @@ Implementaion Of Data Structures And Algorithms In Python
 | 			Topic/Question			       |
 |------------------------------------------|
 
-### Dynamic-Programming(https://github.com/agaraman0/Data_Structure_And_Algorithms/tree/master/Dynamic%20Programming)
+### [Dynamic-Programming](/Dynamic%20Programming)
 | 			Topic/Question			       |
 |------------------------------------------|
 | [Fibonacci Sequence DP](/Dynamic%20Programming/Finonacci%20Memo.ipynb) |
