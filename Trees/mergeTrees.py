@@ -1,4 +1,4 @@
-class Solution(object):
+class merger(object):
     def mergeTrees(self, t1, t2):
         if t1 and t2:
             node = TreeNode(t1.val + t2.val)
