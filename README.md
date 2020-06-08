@@ -25,22 +25,22 @@ Implementaion Of Data Structures And Algorithms In Python
 
 ---------------------------------------------------------
 
-### [Array Important Algos And Ques](https://github.com/agaraman0/Data_Structure_And_Algorithms/tree/master/Array%20Important%20Algos%20And%20Ques)
+### [Array Important Algos And Ques](/Array%20Important%20Algos%20And%20Ques)
 
 | 			Topic/Question			       |
 |------------------------------------------|
 |[Check_Array_Rotation](/Array%20Important%20Algos%20And%20Ques/Check_Array_Rotation.ipynb)|
 |[Common_elements_in_2_soretd_Array](/Array%20Important%20Algos%20And%20Ques/Common_elements_in_2_soretd_Array.ipynb)|
 
-### [Bitwise Algorithms](https://github.com/agaraman0/Data_Structure_And_Algorithms/tree/master/Bitwise%20Algorthms)
+### [Bitwise Algorithms](/Bitwise%20Algorthms)
 | 			Topic/Question			       |
 |------------------------------------------|
 
-### [Cracking The Coding Interview](https://github.com/agaraman0/Data_Structure_And_Algorithms/tree/master/CTCI)
+### [Cracking The Coding Interview](/CTCI)
 | 			Topic/Question			       |
 |------------------------------------------|
 
-### [Graph Algorithms And Implementation](https://github.com/agaraman0/Data_Structure_And_Algorithms/tree/master/Graph%20Algorithms%20And%20Implemetation)
+### [Graph Algorithms And Implementation](/Graph%20Algorithms%20And%20Implemetation)
 | 			Topic/Question			       |
 |------------------------------------------|
 
@@ -53,33 +53,33 @@ Implementaion Of Data Structures And Algorithms In Python
 |------------------------------------------|
 | [Fibonacci Sequence DP](/Dynamic%20Programming/Finonacci%20Memo.ipynb) |
 
-### [Linked List](https://github.com/agaraman0/Data_Structure_And_Algorithms/tree/master/Linked-list)
+### [Linked List](/Linked-list)
 | 			Topic/Question			       |
 |------------------------------------------|
 
 
-### [Mathematics](https://github.com/agaraman0/Data_Structure_And_Algorithms/tree/master/Mathematica)
+### [Mathematics](/Mathematica)
 | 			Topic/Question			       |
 |------------------------------------------|
 
 
-### [Modulo Airthmentic Algorithms](https://github.com/agaraman0/Data_Structure_And_Algorithms/tree/master/Modulo_Airthmetic_Algorithms)
+### [Modulo Airthmentic Algorithms](/Modulo_Airthmetic_Algorithms)
 | 			Topic/Question			       |
 |------------------------------------------|
 
-### [Searching Algorithms](https://github.com/agaraman0/Data_Structure_And_Algorithms/tree/master/Searching%20Algorithms)
+### [Searching Algorithms](/Searching%20Algorithms)
 | 			Topic/Question			       |
 |------------------------------------------|
 
-### [Sorting Algorithms](https://github.com/agaraman0/Data_Structure_And_Algorithms/tree/master/Sorting%20Algorithms)
+### [Sorting Algorithms](/Sorting%20Algorithms)
 | 			Topic/Question			       |
 |------------------------------------------|
 
-### [String Algorithms](https://github.com/agaraman0/Data_Structure_And_Algorithms/tree/master/String%20Algorithms)
+### [String Algorithms](/String%20Algorithms)
 | 			Topic/Question			       |
 |------------------------------------------|
 
-### [Trees](https://github.com/agaraman0/Data_Structure_And_Algorithms/tree/master/Trees)
+### [Trees](/Trees)
 
 | 			Topic/Question			       |
 |------------------------------------------|
