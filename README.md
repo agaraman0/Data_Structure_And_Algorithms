@@ -52,6 +52,12 @@ Implementaion Of Data Structures And Algorithms In Python
 | 			Topic/Question			       |
 |------------------------------------------|
 | [Fibonacci Sequence DP](/Dynamic%20Programming/Finonacci%20Memo.ipynb) |
+| [Edit Distance](/Dynamic%20Programming/editDistance.py) |
+| [0/1 Knapsack Dynamic And Recursive](/Dynamic%20Programming/knapsack.py) |
+| [Longest Increasing Subsequence](/Dynamic%20Programming/LIS.py) |
+| [Max Product Subarray](/Dynamic%20Programming/maxProductarray.py) |
+| [Minimum/Maximum cost Path](/Dynamic%20Programming/minCostPath.py) |
+|[Longest Common Subsequence](/Dynamic%20Programming/LCS.py) |
 
 ### [Linked List](/Linked-list)
 | 			Topic/Question			       |
